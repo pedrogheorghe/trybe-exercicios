@@ -1,0 +1,32 @@
+<style>
+h1 {
+    font-size: 65px;
+    color: orange;
+}
+.lista-estilo {
+background-color: blue;
+font-style: italic;
+line-height: 50px;
+text-align: center;
+text-decoration: underline;
+}
+h1{
+font-family: sans-serif;
+}
+p{
+  font-weight: 600;
+  font-size: 3em;
+}
+body{
+  font-size: 16px;
+}
+#vermelho{
+  background-color: red;
+}
+#amarelo{
+  background-color: yellow;
+}
+#marrom{
+  background-color: brown;
+}
+</style>
