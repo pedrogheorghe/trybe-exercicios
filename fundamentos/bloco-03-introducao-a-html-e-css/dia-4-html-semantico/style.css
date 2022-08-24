@@ -1,0 +1,14 @@
+.premiacao{
+    text-align: center;
+    list-style: none;
+}
+
+.first{
+    display: block;
+    margin-left: 830px;
+}
+
+.second, .third {
+    display: inline-block;
+
+}
